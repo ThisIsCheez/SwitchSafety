@@ -1,6 +1,3 @@
 #ssbu
 25e8328f47d3a1ebfe5a4197814d9b62
 9535cfffea0eac7a7bcadae91efbf64f
-
-#letsgopika
-1081a3174abc14e16f1bc7669194ed51
