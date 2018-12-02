@@ -1,0 +1,10 @@
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.csprojAssemblyReference.cache
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.SwitchSafety.resources
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.Properties.Resources.resources
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.csproj.GenerateResource.cache
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.csproj.CoreCompileInputs.cache
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\bin\Debug\SwitchSafety.exe.config
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\bin\Debug\SwitchSafety.exe
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\bin\Debug\SwitchSafety.pdb
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.exe
+C:\Users\cheez\source\repos\SwitchSafety\SwitchSafety\obj\Debug\SwitchSafety.pdb
